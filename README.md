@@ -2,7 +2,7 @@
 > using different Machine Learning and Deep Learning Techniques to Predict Heart Disease using UCI dataset . 
 
 ## Table of Contents
-* [Project Pipeline](#general-information)
+* [Project Pipeline](#Project-Pipeline)
 * [Technologies Used](#technologies-used)
 
 
